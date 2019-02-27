@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="pref_selection_options">
+        <item>@string/pref_selection_label_popular</item>
+        <item>@string/pref_selection_label_highest</item>
+        <item>@string/pref_selection_label_favorite</item>
+
+    </string-array>
+    <string-array name="pref_selection_values">
+        <item>@string/pref_selection_popular</item>
+        <item>@string/pref_selection_highest</item>
+        <item>@string/pref_selection_favorite</item>
+
+
+    </string-array>
+
+    <string name="pref_selection_favorite">Favorites</string>
+</resources>
